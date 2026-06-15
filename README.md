@@ -42,3 +42,11 @@ The AI Language Translation Tool is a web-based application developed using Pyth
 - Document translation
 - Translation export feature
 - Support for more languages
+
+  ## Screenshots
+
+### Home Page
+![Home Page](home.png)
+
+### Translation History
+![Translation History](history.png)
